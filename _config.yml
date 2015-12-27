@@ -4,6 +4,7 @@ description: "非公式IT企業対抗Splatoon大会『Splathon（スプラソン
 baseurl: ""
 url: "https://www.splathon.ink"
 github_username: splathon
+ga_tracking_id: UA-71773267-1
 
 # Build settings
 markdown: kramdown
