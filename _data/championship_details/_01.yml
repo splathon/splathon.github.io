@@ -1,0 +1,251 @@
+title: 第1回Splathon
+date: 2015-11-29
+place: 株式会社Speee 黒崎ビル5F セミナールーム
+
+ranking:
+  - title: 優勝
+    player: Pixiv
+    win_count: 10
+    ko_count: 7
+    point: 27
+  - title: 準優勝
+    player: ドワンゴ
+    win_count: 10
+    ko_count: 6
+    point: 26
+  - title: 3位
+    player: 博報堂DYメディアパートナーズ
+    win_count: 5
+    ko_count: 2
+    point: 12
+  - title: 4位
+    player: Speee
+    win_count: 4
+    ko_count: 2
+    point: 10
+  - title: 5位
+    player: しくみ製作所
+    win_count: 1
+    ko_count: 0
+    point: 2
+
+results:
+  - title: 第1組
+    players: Pixiv vs しくみ製作所
+    games:
+      - title: 第1試合
+        rule: ガチエリア
+        map: ホッケふ頭
+        winner: Pixiv
+        ko: false
+        nicovideo: sm27695875
+      - title: 第2試合
+        rule: ガチヤグラ
+        map: ハコフグ倉庫
+        winner: Pixiv
+        ko: true
+        nicovideo: sm27696499
+      - title: 第3試合
+        rule: ガチホコ
+        map: ホッケふ頭
+        winner: Pixiv
+        ko: true
+        nicovideo: sm27696539
+
+  - title: 第2組
+    players: ドワンゴ vs 博報堂DYメディアパートナーズ
+    games:
+      - title: 第4試合
+        rule: ガチエリア
+        map: デカライン高架下
+        winner: ドワンゴ
+        ko: true
+        nicovideo: sm27702663
+      - title: 第5試合
+        rule: ガチヤグラ
+        map: ハコフグ倉庫
+        winner: ドワンゴ
+        ko: false
+        nicovideo: sm27702737
+      - title: 第6試合
+        rule: ガチホコ
+        map: マサバ海峡大橋
+        winner: 博報堂DYメディアパートナーズ
+        ko: false
+        nicovideo: sm27702811
+
+  - title: 第3組
+    players: Speee vs Pixiv
+    games:
+      - title: 第7試合
+        rule: ガチエリア
+        map: マサバ海峡大橋
+        winner: Pixiv
+        ko: true
+        nicovideo: sm27702960
+      - title: 第8試合
+        rule: ガチヤグラ
+        map: モンガラキャンプ場
+        winner: Pixiv
+        ko: true
+        nicovideo: sm27703011
+      - title: 第9試合
+        rule: ガチホコ
+        map: モズク農園
+        winner: Pixiv
+        ko: false
+        nicovideo: sm27703069
+
+  - title: 第4組
+    players: しくみ製作所 vs ドワンゴ
+    games:
+      - title: 第10試合
+        rule: ガチエリア
+        map: デカライン高架下
+        winner: ドワンゴ
+        ko: true
+        nicovideo: sm27703163
+      - title: 第11試合
+        rule: ガチヤグラ
+        map: キンメダイ美術館
+        winner: ドワンゴ
+        ko: true
+        nicovideo: sm27703206
+      - title: 第12試合
+        rule: ガチホコ
+        map: マサバ海峡大橋
+        winner: ドワンゴ
+        ko: false
+        nicovideo: sm27703231
+
+  - title: 第5組
+    players: 博報堂DYメディアパートナーズ vs Speee
+    games:
+      - title: 第13試合
+        rule: ガチエリア
+        map: アロワナモール
+        winner: 博報堂DYメディアパートナーズ
+        ko: true
+        nicovideo: sm27708954
+      - title: 第14試合
+        rule: ガチヤグラ
+        map: シオノメ油田
+        winner: Speee
+        ko: false
+        nicovideo: sm27709028
+      - title: 第15試合
+        rule: ガチホコ
+        map: ネギトロ炭鉱
+        winner: 博報堂DYメディアパートナーズ
+        ko: false
+        nicovideo: sm27709076
+
+  - title: 第6組
+    players: Pixiv vs ドワンゴ
+    games:
+      - title: 第16試合
+        rule: ガチエリア
+        map: ハコフグ倉庫
+        winner: Pixiv
+        ko: true
+        nicovideo: sm27709137
+      - title: 第17試合
+        rule: ガチヤグラ
+        map: ホッケふ頭
+        winner: ドワンゴ
+        ko: false
+        nicovideo: sm27709180
+      - title: 第18試合
+        rule: ガチホコ
+        map: モンガラキャンプ場
+        winner: ドワンゴ
+        ko: true
+        nicovideo: sm27709254
+
+  - title: 第7組
+    players: しくみ製作所 vs 博報堂DYメディアパートナーズ
+    games:
+      - title: 第19試合
+        rule: ガチエリア
+        map: ヒラメが丘団地
+        winner: 博報堂DYメディアパートナーズ
+        ko: true
+        nicovideo: sm27709296
+      - title: 第20試合
+        rule: ガチヤグラ
+        map: シオノメ油田
+        winner: しくみ製作所
+        ko: false
+        nicovideo: sm27709358
+      - title: 第21試合
+        rule: ガチホコ
+        map: デカライン高架下
+        winner: 博報堂DYメディアパートナーズ
+        ko: false
+        nicovideo: sm27709431
+
+  - title: 第8組
+    players: ドワンゴ vs Speee
+    games:
+      - title: 第22試合
+        rule: ガチエリア
+        map: ハコフグ倉庫
+        winner: ドワンゴ
+        ko: true
+        nicovideo: sm27721308
+      - title: 第23試合
+        rule: ガチヤグラ
+        map: ネギトロ炭鉱
+        winner: ドワンゴ
+        ko: false
+        nicovideo: sm27721362
+      - title: 第24試合
+        rule: ガチホコ
+        map: ネギトロ炭鉱
+        winner: ドワンゴ
+        ko: true
+        nicovideo: sm27721428
+
+  - title: 第9組
+    players: Pixiv vs 博報堂DYメディアパートナーズ
+    games:
+      - title: 第25試合
+        rule: ガチエリア
+        map: キンメダイ美術館
+        winner: Pixiv
+        ko: true
+        nicovideo: sm27721489
+      - title: 第26試合
+        rule: ガチヤグラ
+        map: キンメダイ美術館
+        winner: Pixiv
+        ko: true
+        nicovideo: sm27721535
+      - title: 第27試合
+        rule: ガチホコ
+        map: ネギトロ炭鉱
+        winner: Pixiv
+        ko: false
+        nicovideo: sm27721572
+
+  - title: 第10組
+    players: しくみ製作所 vs Speee
+    games:
+      - title: 第28試合
+        rule: ガチエリア
+        map: シオノメ油田
+        winner: Speee
+        ko: true
+        nicovideo: sm27721657
+      - title: 第29試合
+        rule: ガチヤグラ
+        map: ヒラメが丘団地
+        winner: Speee
+        ko: true
+        nicovideo: sm27721708
+      - title: 第30試合
+        rule: ガチホコ
+        map: アロワナモール
+        winner: Speee
+        ko: false
+        nicovideo: sm27721758
