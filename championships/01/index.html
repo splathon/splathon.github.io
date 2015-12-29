@@ -1,0 +1,58 @@
+---
+layout: page
+title: 第1回Splathon
+permalink: /championships/01/
+---
+
+{% assign detail = site.data.championship_details._01 %}
+
+<section>
+  <table>
+    <tbody>
+      <tr>
+        <th>大会名</th>
+        <td>{{ detail.title }}</td>
+      </tr>
+      <tr>
+        <th>日付</th>
+        <td>{{ detail.date }}</td>
+      </tr>
+      <tr>
+        <th>会場</th>
+        <td>{{ detail.place }}</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<section>
+  <h2>順位</h2>
+  <table>
+    <tbody>
+      {% for rank in detail.ranking %}
+      <tr>
+        <th>{{ rank.title }}</th>
+        <td>{{ rank.player }}</td>
+        <td>{{ rank.win_count }}勝 (ノックアウト{{ rank.ko_count }}回)</td>
+        <td>{{ rank.point }}ポイント</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<section>
+  <h2>試合結果</h2>
+  {% for result in detail.results %}
+  <section>
+    <h3>{{ result.title }} {{ result.players }}</h3>
+    {% for game in result.games %}
+    <section>
+      <h4>{{ game.title }} {{ game.rule }}@{{ game.map }}</h4>
+      <p>勝者: {{ game.winner }}{% if game.ko %} (ノックアウト){% endif %}</p>
+      <script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/{{ game.nicovideo }}?w=490&amp;h=307"></script><noscript><a href="http://www.nicovideo.jp/watch/{{ game.nicovideo }}">【ニコニコ動画】【{{ detail.title }}】 {{ game.title }} {{ result.players }} {{ game.rule }}</a></noscript>
+    </section>
+    {% endfor %}
+  </section>
+  {% endfor %}
+</section>
