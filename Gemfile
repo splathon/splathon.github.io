@@ -1,3 +1,3 @@
-source 'https://rubygems.org' do
-  gem 'jekyll'
-end
+source 'https://rubygems.org'
+
+gem "github-pages", group: :jekyll_plugins
