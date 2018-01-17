@@ -24,3 +24,10 @@ td, th {
 .Lose {
   background-color: #43f860;
 }
+
+.opponent {
+  width: 140px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
