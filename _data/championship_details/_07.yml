@@ -1,0 +1,294 @@
+---
+title: Splathon#7
+date: 2018-01-07
+place: Speeeラウンジ
+
+ranking:
+- rank: 優勝
+  name: とらふぐ食べたいンゴｗｗｗｗｗ
+  point: 10
+  histories:
+  - opponent: イカクロ
+    result: Win
+  - opponent: デカLINE
+    result: Draw
+  - opponent: セガサトゥーン
+    result: Win
+  - opponent: スクイッ堂
+    result: Win
+- rank: 準優勝
+  name: 都立道玄坂高校iCA部
+  point: 10
+  histories:
+  - opponent: あさりです しるしるー
+    result: Win
+  - opponent: アマイイカ
+    result: Win
+  - opponent: く
+    result: Draw
+  - opponent: プロモデラーYJ
+    result: Win
+- rank: 3
+  name: プロモデラーYJ
+  point: 9
+  histories:
+  - opponent: "【イカ のレシピ 20,410品】"
+    result: Win
+  - opponent: Cytoon
+    result: Win
+  - opponent: cave塗ります
+    result: Win
+  - opponent: 都立道玄坂高校iCA部
+    result: Lose
+- rank: 3
+  name: ビズリイカ
+  point: 9
+  histories:
+  - opponent: ヌリカエ
+    result: Win
+  - opponent: く
+    result: Lose
+  - opponent: 念のため会社にはSwitchドックを設置している
+    result: Win
+  - opponent: Ajitoon
+    result: Win
+- rank: 5
+  name: く
+  point: 8
+  histories:
+  - opponent: スペースイカベーダー
+    result: Win
+  - opponent: ビズリイカ
+    result: Win
+  - opponent: 都立道玄坂高校iCA部
+    result: Draw
+  - opponent: グーグルが丘団地
+    result: Draw
+- rank: 5
+  name: グーグルが丘団地
+  point: 8
+  histories:
+  - opponent: 念のため会社にはSwitchドックを設置している
+    result: Win
+  - opponent: セガサトゥーン
+    result: Draw
+  - opponent: デカLINE
+    result: Win
+  - opponent: く
+    result: Draw
+- rank: 7
+  name: セガサトゥーン
+  point: 7
+  histories:
+  - opponent: スクイッ堂
+    result: Win
+  - opponent: グーグルが丘団地
+    result: Draw
+  - opponent: とらふぐ食べたいンゴｗｗｗｗｗ
+    result: Lose
+  - opponent: アマイイカ
+    result: Win
+- rank: 7
+  name: あさりです しるしるー
+  point: 7
+  histories:
+  - opponent: 都立道玄坂高校iCA部
+    result: Lose
+  - opponent: "【イカ のレシピ 20,410品】"
+    result: Draw
+  - opponent: イカネット
+    result: Win
+  - opponent: Cytoon
+    result: Win
+- rank: 9
+  name: スクイッ堂
+  point: 6
+  histories:
+  - opponent: セガサトゥーン
+    result: Lose
+  - opponent: すげーイカ
+    result: Win
+  - opponent: イカクロ
+    result: Win
+  - opponent: とらふぐ食べたいンゴｗｗｗｗｗ
+    result: Lose
+- rank: 10
+  name: cave塗ります
+  point: 5
+  histories:
+  - opponent: Ajitoon
+    result: Draw
+  - opponent: イカネット
+    result: Win
+  - opponent: プロモデラーYJ
+    result: Lose
+  - opponent: イカクロ
+    result: Draw
+- rank: 10
+  name: デカLINE
+  point: 5
+  histories:
+  - opponent: 青いR
+    result: Win
+  - opponent: とらふぐ食べたいンゴｗｗｗｗｗ
+    result: Draw
+  - opponent: グーグルが丘団地
+    result: Lose
+  - opponent: "【イカ のレシピ 20,410品】"
+    result: Draw
+- rank: 10
+  name: Ajitoon
+  point: 5
+  histories:
+  - opponent: cave塗ります
+    result: Draw
+  - opponent: 1日1万回感謝のクイボ
+    result: Draw
+  - opponent: 青いR
+    result: Win
+  - opponent: ビズリイカ
+    result: Lose
+- rank: 10
+  name: "【イカ のレシピ 20,410品】"
+  point: 5
+  histories:
+  - opponent: プロモデラーYJ
+    result: Lose
+  - opponent: あさりです しるしるー
+    result: Draw
+  - opponent: 1日1万回感謝のクイボ
+    result: Win
+  - opponent: デカLINE
+    result: Draw
+- rank: 14
+  name: アマイイカ
+  point: 4
+  histories:
+  - opponent: すげーイカ
+    result: Win
+  - opponent: 都立道玄坂高校iCA部
+    result: Lose
+  - opponent: Cytoon
+    result: Draw
+  - opponent: セガサトゥーン
+    result: Lose
+- rank: 14
+  name: 青いR
+  point: 4
+  histories:
+  - opponent: デカLINE
+    result: Lose
+  - opponent: ヌリカエ
+    result: Draw
+  - opponent: Ajitoon
+    result: Lose
+  - opponent: イカネット
+    result: Win
+- rank: 14
+  name: 念のため会社にはSwitchドックを設置している
+  point: 4
+  histories:
+  - opponent: グーグルが丘団地
+    result: Lose
+  - opponent: スペースイカベーダー
+    result: Win
+  - opponent: ビズリイカ
+    result: Lose
+  - opponent: すげーイカ
+    result: Draw
+- rank: 14
+  name: Cytoon
+  point: 4
+  histories:
+  - opponent: ikaスタジオ
+    result: Win
+  - opponent: プロモデラーYJ
+    result: Lose
+  - opponent: アマイイカ
+    result: Draw
+  - opponent: あさりです しるしるー
+    result: Lose
+- rank: 14
+  name: イカクロ
+  point: 4
+  histories:
+  - opponent: とらふぐ食べたいンゴｗｗｗｗｗ
+    result: Lose
+  - opponent: ikaスタジオ
+    result: Win
+  - opponent: スクイッ堂
+    result: Lose
+  - opponent: cave塗ります
+    result: Draw
+- rank: 14
+  name: スペースイカベーダー
+  point: 4
+  histories:
+  - opponent: く
+    result: Lose
+  - opponent: 念のため会社にはSwitchドックを設置している
+    result: Lose
+  - opponent: ikaスタジオ
+    result: Win
+  - opponent: 1日1万回感謝のクイボ
+    result: Draw
+- rank: 14
+  name: すげーイカ
+  point: 4
+  histories:
+  - opponent: アマイイカ
+    result: Lose
+  - opponent: スクイッ堂
+    result: Lose
+  - opponent: ヌリカエ
+    result: Win
+  - opponent: 念のため会社にはSwitchドックを設置している
+    result: Draw
+- rank: 21
+  name: 1日1万回感謝のクイボ
+  point: 3
+  histories:
+  - opponent: イカネット
+    result: Draw
+  - opponent: Ajitoon
+    result: Draw
+  - opponent: "【イカ のレシピ 20,410品】"
+    result: Lose
+  - opponent: スペースイカベーダー
+    result: Draw
+- rank: 22
+  name: ヌリカエ
+  point: 2
+  histories:
+  - opponent: ビズリイカ
+    result: Lose
+  - opponent: 青いR
+    result: Draw
+  - opponent: すげーイカ
+    result: Lose
+  - opponent: ikaスタジオ
+    result: Draw
+- rank: 23
+  name: ikaスタジオ
+  point: 1
+  histories:
+  - opponent: Cytoon
+    result: Lose
+  - opponent: イカクロ
+    result: Lose
+  - opponent: スペースイカベーダー
+    result: Lose
+  - opponent: ヌリカエ
+    result: Draw
+- rank: 23
+  name: イカネット
+  point: 1
+  histories:
+  - opponent: 1日1万回感謝のクイボ
+    result: Draw
+  - opponent: cave塗ります
+    result: Lose
+  - opponent: あさりです しるしるー
+    result: Lose
+  - opponent: 青いR
+    result: Lose

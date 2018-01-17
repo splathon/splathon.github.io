@@ -1,0 +1,33 @@
+---
+---
+
+td, th {
+  padding: 5px;
+}
+
+.rank {
+  width: 50px;
+}
+
+.point {
+  width: 40px;
+}
+
+.match {
+  width: 150px;
+}
+
+.Win {
+  background-color: #fa57bf;
+}
+
+.Lose {
+  background-color: #43f860;
+}
+
+.opponent {
+  width: 140px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
