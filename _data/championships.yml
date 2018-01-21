@@ -2,27 +2,34 @@
   date: 2015-11-29
   place: Speeeセミナールーム
   link: /championships/01/
+  status: fixed
 - title: 第2回Splathon
   date: 2016-01-10
   place: Speeeラウンジ
   link: /championships/02/
+  status: maintenance
 - title: 第3回Splathon
   date: 2016-03-20
   place: Speeeラウンジ
   link: /championships/03/
+  status: maintenance
 - title: 第4回Splathon
   date: 2016-06-18
   place: Speeeラウンジ
   link: /championships/04/
+  status: maintenance
 - title: 第5回Splathon
   date: 2016-08-27
   place: Speeeラウンジ
   link: /championships/05/
+  status: fixed
 - title: Splathon#6
   date: 2017-11-04
   place: Speeeラウンジ
   link: /championships/06/
+  status: fixed
 - title: Splathon#7
   date: 2018-01-07
   place: Speeeラウンジ
   link: /championships/07/
+  status: fixed
