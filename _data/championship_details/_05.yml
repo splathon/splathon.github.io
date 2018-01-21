@@ -1,0 +1,146 @@
+---
+title: 第5回Splathon
+date: 2016-08-27
+place: Speeeラウンジ
+
+ranking:
+- rank: 優勝
+  name: K/D2016
+  point: 9
+  histories:
+  - opponent: ポケリーチ
+    result: Win
+  - opponent: ポッポ
+    result: Win
+  - opponent: 都立道玄坂高校イカ部(仮)
+    result: Win
+- rank: 準優勝
+  name: ポッポ
+  point: 6
+  histories:
+  - opponent: 瀬賀高等学校水槽学部(仮)
+    result: Win
+  - opponent: K/D2016
+    result: Lose
+  - opponent: 芝浦大学コイキング収集倶楽部
+    result: Win
+- rank: 3
+  name: 瀬賀高等学校水槽学部(仮)
+  point: 6
+  histories:
+  - opponent: ポッポ
+    result: Lose
+  - opponent: はくほうDO
+    result: Win
+  - opponent: 私立二子玉川学園高校水球部(仮)
+    result: Win
+- rank: 4
+  name: 四社連GO
+  point: 5
+  histories:
+  - opponent: 都立道玄坂高校イカ部(仮) 
+    result: Draw
+  - opponent: 有人大江戸線爆弾
+    result: Win
+  - opponent: トラのもんGO
+    result: Draw
+- rank: 4
+  name: トラのもんGO
+  point: 5
+  histories:
+  - opponent: はくほうDO
+    result: Win
+  - opponent: 私立二子玉川学園高校水球部(仮)
+    result: Draw
+  - opponent: 四社連GO
+    result: Draw
+- rank: 4
+  name: 鋭英会話教室Nova
+  point: 5
+  histories:
+  - opponent: 有人大江戸線爆弾
+    result: Draw
+  - opponent: 芝浦大学コイキング収集倶楽部
+    result: Draw
+  - opponent: スピンゴ
+    result: Win
+- rank: 7
+  name: 都立道玄坂高校イカ部(仮)
+  point: 4
+  histories:
+  - opponent: 四社連GO
+    result: Draw
+  - opponent: エンジョイ勢
+    result: Win
+  - opponent: K/D2016
+    result: Lose
+- rank: 7
+  name: 私立二子玉川学園高校水球部(仮)
+  point: 4
+  histories:
+  - opponent: スピンゴ
+    result: Win
+  - opponent: トラのもんGO
+    result: Draw
+  - opponent: 瀬賀高等学校水槽学部(仮)
+    result: Lose
+- rank: 7
+  name: 有人大江戸線爆弾
+  point: 4
+  histories:
+  - opponent: 鋭会話教室Nova
+    result: Draw
+  - opponent: 四社連GO
+    result: Lose
+  - opponent: ポケリーチ
+    result: Win
+- rank: 10
+  name: はくほうDO
+  point: 3
+  histories:
+  - opponent: トラのもんGO
+    result: Lose
+  - opponent: 瀬賀高等学校水槽学部(仮)
+    result: Lose
+  - opponent: エンジョイ勢
+    result: Win
+- rank: 11
+  name: 芝浦大学コイキング収集倶楽部
+  point: 2
+  histories:
+  - opponent: エンジョイ勢
+    result: Draw
+  - opponent: 鋭会話教室Nova
+    result: Draw
+  - opponent: ポッポ
+    result: Lose
+- rank: 12
+  name: スピンゴ
+  point: 1
+  histories:
+  - opponent: 私立二子玉川学園高校水球部(仮)
+    result: Lose
+  - opponent: ポケリーチ
+    result: Draw
+  - opponent: 鋭会話教室Nova
+    result: Lose
+- rank: 12
+  name: ポケリーチ
+  point: 1
+  histories:
+  - opponent: K/D2016
+    result: Lose
+  - opponent: スピンゴ
+    result: Draw
+  - opponent: 有人大江戸線爆弾
+    result: Lose
+- rank: 12
+  name: エンジョイ勢
+  point: 1
+  histories:
+  - opponent: 芝浦大学コイキング収集倶楽部
+    result: Draw
+  - opponent: 都立道玄坂高校イカ部(仮)
+    result: Lose
+  - opponent: はくほうDO
+    result: Lose
