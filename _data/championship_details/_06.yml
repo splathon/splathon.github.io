@@ -1,0 +1,246 @@
+---
+title: Splathon#6
+date: 2017-11-04
+place: Speeeラウンジ
+
+ranking:
+- rank: 優勝
+  name: 負けたらhakuriさんGEO行って
+  point: 9
+  histories:
+  - opponent: " Splathon女子部"
+    result: Win
+  - opponent: 中間搾取株式会社
+    result: Win
+  - opponent: ビズリイカ
+    result: Win
+- rank: 準優勝
+  name: CabinAttendantではない
+  point: 7
+  histories:
+  - opponent: 4シャケ連号
+    result: Win
+  - opponent: サイトオペαチーム
+    result: Win
+  - opponent: KD2016
+    result: Draw
+- rank: 2
+  name: KD2016
+  point: 7
+  histories:
+  - opponent: イカ部（く）
+    result: Win
+  - opponent: 念のため会社にはSwitchを持っていく
+    result: Win
+  - opponent: CabinAttendantではない
+    result: Draw
+- rank: 2
+  name: スパショは強い！
+  point: 7
+  histories:
+  - opponent: スペースイカベーダー
+    result: Win
+  - opponent: ビズリイカ
+    result: Draw
+  - opponent: 筋肉3.9
+    result: Win
+- rank: 5
+  name: 4シャケ連号
+  point: 6
+  histories:
+  - opponent: CabinAttendantではない
+    result: Lose
+  - opponent: 夏衣(カイ)とイカ
+    result: Win
+  - opponent: " Splathon女子部"
+    result: Win
+- rank: 6
+  name: 補欠
+  point: 5
+  histories:
+  - opponent: イカクロ
+    result: Draw
+  - opponent: クマサン商会
+    result: Draw
+  - opponent: デカLINE
+    result: Win
+- rank: 6
+  name: SFC
+  point: 5
+  histories:
+  - opponent: コレハ小麦粉カ何カダ。〜プロコンに白い粉をまく仕事〜
+    result: Win
+  - opponent: 筋肉3.9
+    result: Draw
+  - opponent: 念のため会社にはSwitchを持っていく
+    result: Draw
+- rank: 6
+  name: クマサン商会
+  point: 5
+  histories:
+  - opponent: デカLINE
+    result: Draw
+  - opponent: 補欠
+    result: Draw
+  - opponent: イカ部（く）
+    result: Win
+- rank: 9
+  name: ビズリイカ
+  point: 4
+  histories:
+  - opponent: イカネット
+    result: Win
+  - opponent: スパショは強い！
+    result: Draw
+  - opponent: 負けたらhakuriさんGEO行って
+    result: Lose
+- rank: 9
+  name: サイトオペαチーム
+  point: 4
+  histories:
+  - opponent: ⒸUTA☆BL-R PROJECT
+    result: Win
+  - opponent: CabinAttendantではない
+    result: Lose
+  - opponent: 中間搾取株式会社
+    result: Draw
+- rank: 9
+  name: コレハ小麦粉カ何カダ。〜プロコンに白い粉をまく仕事〜
+  point: 4
+  histories:
+  - opponent: SFC
+    result: Lose
+  - opponent: " すぴー塗装"
+    result: Draw
+  - opponent: スペースイカベーダー
+    result: Win
+- rank: 9
+  name: 筋肉3.9
+  point: 4
+  histories:
+  - opponent: スクイッ堂
+    result: Win
+  - opponent: SFC
+    result: Draw
+  - opponent: スパショは強い！
+    result: Lose
+- rank: 9
+  name: 中間搾取株式会社
+  point: 4
+  histories:
+  - opponent: " すぴー塗装"
+    result: Win
+  - opponent: 負けたらhakuriさんGEO行って
+    result: Lose
+  - opponent: サイトオペαチーム
+    result: Draw
+- rank: 9
+  name: 念のため会社にはSwitchを持っていく
+  point: 4
+  histories:
+  - opponent: 夏衣(カイ)とイカ
+    result: Win
+  - opponent: KD2016
+    result: Lose
+  - opponent: SFC
+    result: Draw
+- rank: 15
+  name: イカクロ
+  point: 3
+  histories:
+  - opponent: 補欠
+    result: Draw
+  - opponent: デカLINE
+    result: Draw
+  - opponent: " すぴー塗装"
+    result: Draw
+- rank: 15
+  name: イカネット
+  point: 3
+  histories:
+  - opponent: ビズリイカ
+    result: Lose
+  - opponent: イカ部（く）
+    result: Lose
+  - opponent: 夏衣(カイ)とイカ
+    result: Win
+- rank: 15
+  name: イカ部（く）
+  point: 3
+  histories:
+  - opponent: KD2016
+    result: Lose
+  - opponent: イカネット
+    result: Win
+  - opponent: クマサン商会
+    result: Lose
+- rank: 15
+  name: " Splathon女子部"
+  point: 3
+  histories:
+  - opponent: 負けたらhakuriさんGEO行って
+    result: Lose
+  - opponent: スクイッ堂
+    result: Win
+  - opponent: 4シャケ連号
+    result: Lose
+- rank: 19
+  name: ⒸUTA☆BL-R PROJECT
+  point: 2
+  histories:
+  - opponent: サイトオペαチーム
+    result: Lose
+  - opponent: スペースイカベーダー
+    result: Draw
+  - opponent: スクイッ堂
+    result: Draw
+- rank: 19
+  name: " すぴー塗装"
+  point: 2
+  histories:
+  - opponent: 中間搾取株式会社
+    result: Lose
+  - opponent: コレハ小麦粉カ何カダ。〜プロコンに白い粉をまく仕事〜
+    result: Draw
+  - opponent: イカクロ
+    result: Draw
+- rank: 19
+  name: デカLINE
+  point: 2
+  histories:
+  - opponent: クマサン商会
+    result: Draw
+  - opponent: イカクロ
+    result: Draw
+  - opponent: 補欠
+    result: Lose
+- rank: 22
+  name: スペースイカベーダー
+  point: 1
+  histories:
+  - opponent: スパショは強い！
+    result: Lose
+  - opponent: ⒸUTA☆BL-R PROJECT
+    result: Draw
+  - opponent: コレハ小麦粉カ何カダ。〜プロコンに白い粉をまく仕事〜
+    result: Lose
+- rank: 22
+  name: スクイッ堂
+  point: 1
+  histories:
+  - opponent: 筋肉3.9
+    result: Lose
+  - opponent: " Splathon女子部"
+    result: Lose
+  - opponent: ⒸUTA☆BL-R PROJECT
+    result: Draw
+- rank: 24
+  name: 夏衣(カイ)とイカ
+  point: 0
+  histories:
+  - opponent: 念のため会社にはSwitchを持っていく
+    result: Lose
+  - opponent: 4シャケ連号
+    result: Lose
+  - opponent: イカネット
+    result: Lose
