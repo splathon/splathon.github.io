@@ -1,0 +1,57 @@
+---
+layout: page
+title: Splathon#6
+permalink: /championships/06/
+---
+
+{% assign detail = site.data.championship_details._06 %}
+
+<section>
+  <table>
+    <tbody>
+      <tr>
+        <th>大会名</th>
+        <td>{{ detail.title }}</td>
+      </tr>
+      <tr>
+        <th>日付</th>
+        <td>{{ detail.date }}</td>
+      </tr>
+      <tr>
+        <th>会場</th>
+        <td>{{ detail.place }}</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<hr />
+
+<section>
+  <table>
+    <thead>
+      <tr>
+        <th class="rank">順位</th>
+        <th>チーム</th>
+        <th class="point">勝点</th>
+        {% for i in (1..detail.ranking.first.histories.size) %}
+        <th class="match">{{ i }}回戦</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for team in detail.ranking %}
+      <tr>
+        <th>{{ team.rank }}</th>
+        <td>{{ team.name }}</td>
+        <td>{{ team.point }}</td>
+        {% for match in team.histories %}
+        <td class="{{ match.result }}">
+          <div class="opponent">vs {{ match.opponent }}</div>
+        </td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
