@@ -7,7 +7,13 @@ permalink: /championships/
 <section>
 {% for c in site.data.championships %}
   <section>
-    <h3><a href="{{ c.link }}">{{ c.title }}</a></h3>
+    <h3>
+      {% if c.status == 'fixed' %}
+      <a href="{{ c.link }}">{{ c.title }}</a>
+      {% else %}
+      {{ c.title }}
+      {% endif %}
+    </h3>
     <p>開催日: {{ c.date }}</p>
   </section>
 {% endfor %}
