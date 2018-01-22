@@ -55,3 +55,18 @@ permalink: /championships/07/
     </tbody>
   </table>
 </section>
+
+<hr />
+
+<section>
+  <h3>関連記事</h3>
+  <ul>
+    {% for blog in detail.blogs %}
+    <li>
+      <h4>
+        <a href="{{ blog.url }}">{{ blog.title }}</a>
+      </h4>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
