@@ -70,3 +70,13 @@ permalink: /championships/06/
     {% endfor %}
   </ul>
 </section>
+
+<hr />
+
+<section>
+  <h3>関連動画</h3>
+  {% for video in detail.videos %}
+  <h4>{{ video.title }}</h4>
+  {{ video.url }}
+  {% endfor %}
+</section>
