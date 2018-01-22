@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+## Splathon とは
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Splathonは、Splatoon好きなイカ野郎・イカ娘たちが集まり、オフライン企業対抗戦イベントなどを行う招待制コミュニティです。
+
+## Splathon の語源
+> 「スプラソン」（Splathon）とは、スプラトゥーン（splatoon）とマラソン（marathon）を組み合わせた 株式会社Speee発祥の造語で、複数の参加チームが、マラソンのように、 数時間から数日間の与えられた時間を徹してSplatoonに没頭し、戦果を競い合うゲームイベントのことをいいます。
