@@ -1,0 +1,74 @@
+---
+layout: page
+title: Splathon#8
+permalink: /championships/08/
+---
+
+{% assign detail = site.data.championship_details._08 %}
+
+<section>
+  <table>
+    <tbody>
+      <tr>
+        <th>大会名</th>
+        <td>{{ detail.title }}</td>
+      </tr>
+      <tr>
+        <th>日付</th>
+        <td>{{ detail.date }}</td>
+      </tr>
+      <tr>
+        <th>会場</th>
+        <td>{{ detail.place }}</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+<hr />
+
+予選4回戦での上位4チームによる<a href="https://challonge.com/ja/1kum2usr">決勝トーナメント</a>を実施
+
+<section>
+  <table>
+    <thead>
+      <tr>
+        <th class="rank">順位</th>
+        <th>チーム</th>
+        <th class="point">勝点</th>
+        {% for i in (1..detail.ranking.first.histories.size) %}
+        <th class="match">{{ i }}回戦</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for team in detail.ranking %}
+      <tr>
+        <th>{{ team.rank }}</th>
+        <td>{{ team.name }}</td>
+        <td>{{ team.point }}</td>
+        {% for match in team.histories %}
+        <td class="{{ match.result }}">
+          <div class="opponent">vs {{ match.opponent }}</div>
+        </td>
+        {% endfor %}
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+<hr />
+
+<section>
+  <h3>関連記事</h3>
+  <ul>
+    {% for blog in detail.blogs %}
+    <li>
+      <h4>
+        <a href="{{ blog.url }}">{{ blog.title }}</a>
+      </h4>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
