@@ -1,4 +1,6 @@
 - title: 大会一覧
   path: /championships/
+- title: 'Splathon Online League'
+  path: /sol/
 - title: About
   path: /about/

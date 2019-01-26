@@ -1,0 +1,15 @@
+- title: 'Splathon Online League #1'
+  start: 2017-xx-xx
+  end: 2017-xx-xx
+  link: /sol/1/
+  status: unfixed
+- title: 'Splathon Online League #2'
+  start: 2018-xx-xx
+  end: 2018-xx-xx
+  link: /sol/2/
+  status: unfixed
+- title: 'Splathon Online League #3'
+  link: /sol/3/
+  start: 2018-xx-xx
+  end: 2018-xx-xx
+  status: fixed

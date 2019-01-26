@@ -1,0 +1,20 @@
+---
+layout: page
+title: 大会一覧
+permalink: /sol/
+---
+
+<section>
+{% for e in site.data.sol %}
+  <section>
+    <h3>
+      {% if e.status == 'fixed' %}
+        <a href="{{ e.url }}">{{ e.title }}</a>
+      {% else %}
+        <p>{{ e.title }}</p>
+      {% endif %}
+    </h3>
+    <p>開催期間: {{ e.start }} 〜 {{ e.end }}</p>
+  </section>
+{% endfor %}
+</section>
