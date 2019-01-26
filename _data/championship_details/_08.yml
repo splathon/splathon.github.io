@@ -1,0 +1,299 @@
+---
+title: Splathon#8
+date: 2018-05-04
+place: DMMイベントスペース
+
+
+ranking:
+  - rank: 優勝
+    name: しくみ＆セガ連合かっこかり
+    point: 9
+    histories:
+      - opponent: bizreaca
+        result: Win
+      - opponent: 無
+        result: Lose
+      - opponent: イカツキ
+        result: Win
+      - opponent: あわさんにおんぶにだっこ
+        result: Win
+  - rank: 準優勝
+    name: 無
+    point: 10
+    histories:
+      - opponent: 【値下げ交渉可】赤ザップ
+        result: Win
+      - opponent: しくみ＆セガ連合かっこかり
+        result: Win
+      - opponent: 国民健康保険ズ
+        result: Win
+      - opponent: 都立道玄坂高校タコ部（仮）
+        result: Draw
+  - rank: 3
+    name: 都立道玄坂高校タコ部（仮）
+    point: 10
+    histories:
+      - opponent: ミランドラproject
+        result: Win
+      - opponent: アマイイカ
+        result: Win
+      - opponent: あわさんにおんぶにだっこ
+        result: Win
+      - opponent: 無
+        result: Draw
+  - rank: 3
+    name: がん☆あつ
+    point: 10
+    histories:
+      - opponent: チームPicApp
+        result: Win
+      - opponent: がん☆あつ
+        result: Draw
+      - opponent: 雲丹亭
+        result: Win
+      - opponent: 住まイカんぱにー
+        result: Win
+  - rank: 5
+    name: 【値下げ交渉可】赤ザップ
+    point: 7
+    histories:
+      - opponent: 無
+        result: Lose
+      - opponent: bizreaca
+        result: Draw
+      - opponent: 倒れる様にマンメンミ
+        result: Win
+      - opponent: アマイイカ
+        result: Win
+  - rank: 5
+    name: 住まイカんぱにー
+    point: 7
+    histories:
+      - opponent: 頭文字D
+        result: Draw
+      - opponent: チームPicApp
+        result: Win
+      - opponent: セルシスイカ部（仮）
+        result: Win
+      - opponent: がん☆あつ
+        result: Lose
+  - rank: 5
+    name: 国民健康保険ズ
+    point: 7
+    histories:
+      - opponent: Ajitoon
+        result: Draw
+      - opponent: 	OKはやぶさ（返事がない）
+        result: Win
+      - opponent: 無
+        result: Lose
+      - opponent: 頭文字D
+        result: Win
+  - rank: 5
+    name: bizreaca
+    point: 7
+    histories:
+      - opponent: しくみ＆セガ連合かっこかり
+        result: Lose
+      - opponent: 【値下げ交渉可】赤ザップ
+        result: Draw
+      - opponent: ミランドラproject
+        result: Win
+      - opponent: イカツキ
+        result: Win
+  - rank: 9
+    name: Ajitoon
+    point: 6
+    histories:
+      - opponent: 国民健康保険ズ
+        result: Draw
+      - opponent: 倒れる様にマンメンミ
+        result: Draw
+      - opponent: すげーイカ
+        result: Win
+      - opponent: デカLINE
+        result: Draw
+  - rank: 9
+    name: OKはやぶさ（返事がない）
+    point: 6
+    histories:
+      - opponent: アマイイカ
+        result: Lose
+      - opponent: 国民健康保険ズ
+        result: Lose
+      - opponent: イカクロ
+        result: Win
+      - opponent: 雲丹亭
+        result: Win
+  - rank: 9
+    name: あわさんにおんぶにだっこ
+    point: 6
+    histories:
+      - opponent: DMM.ika
+        result: Win
+      - opponent: すげーイカ
+        result: Win
+      - opponent: 都立道玄坂高校タコ部（仮）
+        result: Lose
+      - opponent: しくみ＆セガ連合かっこかり
+        result: Lose
+  - rank: 9
+    name: デカLINE
+    point: 6
+    histories:
+      - opponent: イカクロ
+        result: Win
+      - opponent: がん☆あつ
+        result: Draw
+      - opponent: 頭文字D
+        result: Draw
+      - opponent: Ajitoon
+        result: Draw
+  - rank: 13
+    name: セルシスイカ部（仮）
+    point: 5
+    histories:
+      - opponent: 雲丹亭
+        result: Win
+      - opponent: ミランドラproject
+        result: Draw
+      - opponent: 住まイカんぱに
+        result: Lose
+      - opponent: KLaken
+        result: Draw
+  - rank: 13
+    name: KLaken
+    point: 5
+    histories:
+      - opponent: イカツキ
+        result: Win
+      - opponent: 頭文字D
+        result: Lose
+      - opponent: アマイイカ
+        result: Draw
+      - opponent: セルシスイカ部（仮）
+        result: Draw
+  - rank: 13
+    name: 倒れる様にマンメンミ
+    point: 5
+    histories:
+      - opponent: すげーイカ
+        result: Draw
+      - opponent: Ajitoon
+        result: Draw
+      - opponent: 【値下げ交渉可】赤ザップ
+        result: Lose
+      - opponent: DMM.ika
+        result: Win
+  - rank: 13
+    name: 頭文字D
+    point: 5
+    histories:
+      - opponent: 住まイカんぱにー
+        result: Draw
+      - opponent: KLaken
+        result: Win
+      - opponent: デカLINE
+        result: Draw
+      - opponent: 国民健康保険ズ
+        result: Lose
+  - rank: 17
+    name: アマイイカ
+    point: 4
+    histories:
+      - opponent: OKはやぶさ（返事がない）
+        result: Win
+      - opponent: 都立道玄坂高校タコ部（仮）
+        result: Lose
+      - opponent: KLaken
+        result: Draw
+      - opponent: 【値下げ交渉可】赤ザップ
+        result: Lose
+  - rank: 17
+    name: ミランドラproject
+    point: 4
+    histories:
+      - opponent: 都立道玄坂高校タコ部（仮）
+        result: Lose
+      - opponent: セルシスイカ部（仮）
+        result: Draw
+      - opponent: bizreaca
+        result: Lose
+      - opponent: すげーイカ
+        result: Win
+  - rank: 17
+    name: チームPicApp
+    point: 4
+    histories:
+      - opponent: がん☆あつ
+        result: Lose
+      - opponent: 住まイカんぱにー
+        result: Lose
+      - opponent: DMM.ika
+        result: Draw
+      - opponent: イカクロ
+        result: Win
+  - rank: 20
+    name: イカツキ
+    point: 3
+    histories:
+      - opponent: KLaken
+        result: Lose
+      - opponent: イカクロ
+        result: Win
+      - opponent: しくみ＆セガ連合かっこかり
+        result: Lose
+      - opponent: bizreaca
+        result: Lose
+  - rank: 20
+    name: 雲丹亭
+    point: 3
+    histories:
+      - opponent: セルシスイカ部（仮）
+        result: Lose
+      - opponent: DMM.ika
+        result: Win
+      - opponent: がん☆あつ
+        result: Lose
+      - opponent: OKはやぶさ（返事がない）
+        result: Lose
+  - rank: 20
+    name: すげーイカ
+    point: 1
+    histories:
+      - opponent: 倒れる様にマンメンミ
+        result: Draw
+      - opponent: あわさんにおんぶにだっこ
+        result: Lose
+      - opponent: Ajitoon
+        result: Lose
+      - opponent: ミランドラproject
+        result: Lose
+  - rank: 20
+    name: DMM.ika
+    point: 1
+    histories:
+      - opponent: あわさんにおんぶにだっこ
+        result: Lose
+      - opponent: 雲丹亭
+        result: Lose
+      - opponent: チームPicApp
+        result: Draw
+      - opponent: 倒れる様にマンメンミ
+        result: Lose
+  - rank: 24
+    name: イカクロ
+    point: 0
+    histories:
+      - opponent: デカLINE
+        result: Lose
+      - opponent: イカツキ
+        result: Lose
+      - opponent: OKはやぶさ（返事がない）
+        result: Lose
+      - opponent: チームPicApp
+        result: Lose
+
+blogs:
+  - title: Splathon#8 Splathon#8 開催報告するぞっ
+    url: http://kawakubox.hatenablog.com/entry/2018/06/04/192748
