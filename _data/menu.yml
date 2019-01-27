@@ -1,4 +1,6 @@
 - title: 大会一覧
   path: /championships/
+- title: Others
+  path: /others/
 - title: About
   path: /about/
