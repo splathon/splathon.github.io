@@ -1,0 +1,13 @@
+---
+layout: page
+title: その他活動
+permalink: /others/
+---
+
+<section>
+{% for c in site.data.others %}
+  <li>
+    <a href="{{ c.link }}">{{ c.title }}</a>
+  </li>
+{% endfor %}
+</section>
